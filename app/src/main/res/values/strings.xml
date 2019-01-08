@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PushoverDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="res_history_tag">Your pushover history will be displayed here</string>
+    <string name="app_token">App Token</string>
+    <string name="app_token_error">Incorrect app token</string>
+    <string name="user_key">User Key</string>
+    <string name="user_key_error">Incorrect user key</string>
+    <string name="message_text">Message</string>
+    <string name="message_error">Message</string>
+    <string name="perform">Perform</string>
+    <string name="push_failed">Push failed</string>
+    <string name="push_succ">Push succeed</string>
+    <string name="set_time">Set time</string>
+    <string name="time_cancel">Cancel</string>
+    <string name="post_time">Post time</string>
+    <string name="scan_qr_code">Scan QR-code</string>
+</resources>
